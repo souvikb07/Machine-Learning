@@ -7,3 +7,4 @@
 
 ## The Course contents are:
 - [Linear Regression with Multiple Variables](https://github.com/souvikb07/Machine-Learning/tree/master/Linear%20Regression%20with%20Multiple%20Variables)
+- [Classification](https://github.com/souvikb07/Machine-Learning/tree/master/Classification)
