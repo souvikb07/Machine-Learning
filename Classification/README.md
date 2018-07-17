@@ -1,5 +1,4 @@
 # Classification
 #### A list of classification Models
 
-## Logistic Regression
-- 
+## 1) [Logistic Regression]()
