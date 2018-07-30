@@ -9,4 +9,4 @@
 - [Linear Regression with Multiple Variables](https://github.com/souvikb07/Machine-Learning/tree/master/Linear%20Regression%20with%20Multiple%20Variables)
 - [Classification](https://github.com/souvikb07/Machine-Learning/tree/master/Classification)
 - [Clustering](https://github.com/souvikb07/Machine-Learning/blob/master/Clustering/README.md)
-- [sfa](https://github.com/souvikb07/Machine-Learning/tree/master/Association%20Rule%20Learning%20-%20Apriori)
+- [Association Rule Learning](https://github.com/souvikb07/Machine-Learning/tree/master/Association%20Rule%20Learning%20-%20Apriori)
