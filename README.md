@@ -11,5 +11,5 @@
 - [Clustering](https://github.com/souvikb07/Machine-Learning/blob/master/Clustering/README.md)
 - [Association Rule Learning](https://github.com/souvikb07/Machine-Learning/tree/master/Association%20Rule%20Learning%20-%20Apriori)
 - [Natural Language Processing](https://github.com/souvikb07/Machine-Learning/tree/master/Natural%20Language%20Processing)
-- [Dimensionality Reduction](https://github.com/souvikb07/Machine-Learning/tree/master/C)
+- [Dimensionality Reduction](https://github.com/souvikb07/Machine-Learning/tree/master/Dimensionality%20Reduction)
 - [Model Selection](https://github.com/souvikb07/Machine-Learning/tree/master/Model%20Selection)
